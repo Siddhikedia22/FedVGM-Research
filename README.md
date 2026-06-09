@@ -23,7 +23,7 @@ The framework was evaluated across a multi-class dataset encompassing four diagn
 
 ## Repository Contents
 
-* `Research_Manuscript.pdf` - The comprehensive 9-page working paper detailing the complete system design, ablation studies, aggregation mathematics, and final statistical evaluations.
+* `CACSC602_SusmitaHaldar_SiddhiKedia_KhushiYadav--.pdf` - The comprehensive 9-page working paper detailing the complete system design, ablation studies, aggregation mathematics, and final statistical evaluations.
 
 ## 🛠️ Technology Stack
 * **Core:** Python, TensorFlow, Keras
