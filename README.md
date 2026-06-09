@@ -4,7 +4,7 @@ This repository contains the research manuscript and architectural overview for 
 
 Traditional deep learning in healthcare is often hindered by strict data privacy regulations and fragmented institutional datasets. FedVGM addresses this by enabling decentralized model training across multiple clients without ever centralizing sensitive patient data.
 
-📄 **[Read the full Research Manuscript here](./CACSC602_SusmitaHaldar_SiddhiKedia_KhushiYadav--.pdf)** *(Ensure you update this link with your exact PDF filename once uploaded)*
+ **[CACSC602_SusmitaHaldar_SiddhiKedia_KhushiYadav.pdf](./CACSC602_SusmitaHaldar_SiddhiKedia_KhushiYadav--.pdf)** 
 
 ## Key Architectural Highlights
 
